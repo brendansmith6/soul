@@ -11,9 +11,12 @@ def soul_questions():
         input("What am I proud of?\n")
         input("If I died today, would I be happy with how I spent the day?\n")
         input("What impact did I have on others today?\n")
+        input("What is one quote that inspired you today?\n")
     elif (q1 == "bad"):
         input("go fish, workout, read, write. Every little thing is gonna be alright!\n")
     else:
         input("Smile you are alive, go do something that makes you happy\n")
 
 soul_questions()
+
+#add more questions
